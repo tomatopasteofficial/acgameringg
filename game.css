@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url(images/o22-bg-polkadot.gif);
+}
+
+canvas {
+  display: block;
+}
+
+iframe{
+  display: block;
+  margin: auto;
+  width: 600px;
+  height: 650px;
+}
