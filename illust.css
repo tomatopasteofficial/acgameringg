@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url(images/o22-bg-polkadot.gif);
+}
+
+.scroll-box {
+    width: 500px;
+    height: 700px;
+    overflow: auto;
+    border: 1px solid #000000;
+    margin: auto; 
+}
